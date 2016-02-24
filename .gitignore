@@ -1,0 +1,48 @@
+1 # =============== # 
+2 # Unity generated # 
+3 # =============== # 
+4 Temp/ 
+5 Obj/ 
+6 UnityGenerated/ 
+7 Library/ 
+8 Assets/Cardboard/ 
+9 Assets/Plugins/ 
+10 Assets/Cardboard.meta 
+11 Assets/Plugins.meta 
+12 
+ 
+13 # ===================================== # 
+14 # Visual Studio / MonoDevelop generated # 
+15 # ===================================== # 
+16 ExportedObj/ 
+17 *.svd 
+18 *.userprefs 
+19 *.csproj 
+20 *.pidb 
+21 *.suo 
+22 *.sln 
+23 *.user 
+24 *.unityproj 
+25 *.booproj 
+26 
+ 
+27 # ============ # 
+28 # OS generated # 
+29 # ============ # 
+30 .DS_Store 
+31 .DS_Store? 
+32 ._* 
+33 .Spotlight-V100 
+34 .Trashes 
+35 Icon? 
+36 ehthumbs.db 
+37 Thumbs.db 
+38 
+ 
+39 # ============ # 
+40 # for others   # 
+41 # ============ # 
+42 
+ 
+43 *.log #log files, for some plugins 
+44 *.pyc #python bytecode cache, for some plugins. 
